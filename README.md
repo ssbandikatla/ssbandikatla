@@ -8,7 +8,7 @@
   <img align="left" alt="Sandeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" width="420" height="333" src="https://github.com/sandeepsrivastavb/sandeepsrivastavb/tree/main/contents">
+<img align="right" width="420" height="333" src="https://github.com/sandeepsrivastavb/sandeepsrivastavb/tree/main/contents/gopher.png">
 
 ### I am Sandeep Srivastav Bandikatla
 - An Open Source enthusiast.
