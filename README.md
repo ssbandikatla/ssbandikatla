@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/vbandikatla/vbandikatla/blob/master/content/hi.gif" width="30px"></h2>
+## Hello! <img src="https://github.com/vbandikatla/vbandikatla/blob/master/content/hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/sandeepsrivastavb/">
   <img align="left" alt="Sandeep's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,6 +12,7 @@
 ### I am Sandeep Srivastav Bandikatla
 - An Open Source enthusiast.
 - A Computer Science Graduate Student at Arizona State University.
+- I have a Bachelor's degree in Computer Science from Indian Institute of Technology Patna.
 - I'm currently looking for Internship opportunities.
 
 **Languages and Tools:**  
