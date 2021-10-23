@@ -12,7 +12,7 @@
 ### I am Sandeep Srivastav Bandikatla
 - An Open Source enthusiast.
 - A Computer Science Graduate Student at Arizona State University.
-- I have a Bachelor's degree in Computer Science from Indian Institute of Technology Patna.
+- I have a Bachelor's degree in Computer Science and Engineering from Indian Institute of Technology Patna.
 - I'm currently looking for Internship opportunities.
 
 **Languages and Tools:**  
