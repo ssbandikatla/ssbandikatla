@@ -1,10 +1,10 @@
 ## Hello! <img src="https://github.com/vbandikatla/vbandikatla/blob/master/content/hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/sandeepsrivastavb/">
+<a href="https://www.linkedin.com/in/ssbandikatla/">
   <img align="left" alt="Sandeep's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <emsp/>
-<a href="https://github.com/sandeepsrivastavb">
+<a href="https://github.com/ssbandikatla">
   <img align="left" alt="Sandeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
