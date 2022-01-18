@@ -7,6 +7,10 @@
 <a href="https://github.com/ssbandikatla">
   <img align="left" alt="Sandeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<emsp/>
+<a href="ssbandikatla@gmail.com">
+  <img align="left" alt="Sandeep's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <br />
 
 ### I am Sandeep Srivastav Bandikatla
